@@ -21,7 +21,7 @@
 ## 🛠️ Projetos que já compartilhei:
 
 - **Conversor de Moedas** 💸  
-  Um projeto simples mas poderoso. Agora, ele é **responsivo** e funciona bem em **dispositivos móveis**. Em breve, vou integrar uma **API de câmbio em tempo real**. 🚀
+  Um projeto simples mas poderoso. Ele é **responsivo** e funciona bem em **dispositivos móveis**. E é integrado a uma **API de câmbio em tempo real**.
 
 ---
 

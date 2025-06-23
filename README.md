@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Danielly 👩‍💻
 
-🔹 **Iniciante em programação**, com foco em **front-end** e **back-end**.  
+🔹 **Iniciante em programação**, com foco em **back-end**.  
 🔹 Curiosa por **tecnologia** e apaixonada por aprender coisas novas.  
 🔹 Estudo **Python** e **MySQL** no meu tempo livre, e não consigo parar de **explorar** novos conceitos.  
 🔹 Em busca de desafios e oportunidades para **crescer** e aplicar o que estou aprendendo.
@@ -12,7 +12,7 @@
 ## 🖤 O que eu estou estudando atualmente:
 
 - 🌐 **HTML/CSS/JavaScript** para front-end.
-- 💻 **Python**, **MySQL** e **APIs** para back-end.
+- 💻 **Python**, **MySQL**, **APIs** para back-end.
 - 🧠 Mergulhando no básico da **Inteligência Artificial** e **machine learning**.  
 - 👩‍💻 Trabalhando em **projetos pessoais** para melhorar minhas habilidades.
 

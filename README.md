@@ -23,6 +23,9 @@
 - **Conversor de Moedas** 💸  
   Um projeto simples mas poderoso. Ele é **responsivo** e funciona bem em **dispositivos móveis**. E é integrado a uma **API de câmbio em tempo real**.
 
+- **Gerador de Transcrição**
+  Um programa que gera **transcrições** de **videos locais** e **videos do youtube** apartir do link usando tecnologias como **Whisper da OpenAI**, **pydub**, **ffmpeg** e       mais, possui uma interface básica via terminal e resultado da transcrição é salvo em um **arquivo txt**.
+
 ---
 
 ## 💬 Vamos conversar!

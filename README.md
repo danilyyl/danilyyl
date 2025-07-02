@@ -2,9 +2,9 @@
 
 # Olá, eu sou a Danielly 👩‍💻
 
-🔹 **Iniciante em programação**, com foco em **back-end**.  
+🔹 **Estudante ativa de programação**, com foco no **back-end**  
 🔹 Curiosa por **tecnologia** e apaixonada por aprender coisas novas.  
-🔹 Estudo **Python** e **MySQL** no meu tempo livre, e não consigo parar de **explorar** novos conceitos.  
+🔹 Estudo **Python** e **MySQL** no meu tempo livre, e estou sempre **explorando** novos conceitos.  
 🔹 Em busca de desafios e oportunidades para **crescer** e aplicar o que estou aprendendo.
 
 ---

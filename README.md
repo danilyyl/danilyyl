@@ -12,7 +12,7 @@
 ## 🖤 O que eu estou estudando atualmente:
 
 - 🌐 **HTML/CSS/JavaScript** para front-end.
-- 💻 **Python**, **MySQL**, **APIs** para back-end.
+- 💻 **Python**, **Java**, **MySQL**, **APIs** para back-end.
 - 🧠 Mergulhando no básico da **Inteligência Artificial** e **machine learning**.  
 - 👩‍💻 Trabalhando em **projetos pessoais** para melhorar minhas habilidades.
 

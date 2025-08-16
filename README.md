@@ -1,43 +1,46 @@
-![gif animado](https://www.imagensanimadas.com/data/media/196/morcego-imagem-animada-0018.gif)                                  
+<h2 align="left"># Olá, eu sou a Danielly 👩‍💻</h2>
 
-# Olá, eu sou a Danielly 👩‍💻
+###
 
-🔹 **Estudante ativa de programação**, com foco no **back-end**  
-🔹 Curiosa por **tecnologia** e apaixonada por aprender coisas novas.  
-🔹 Estudo **Python**, **Java** e **MySQL** no meu tempo livre, e estou sempre **explorando** novos conceitos.  
-🔹 Em busca de desafios e oportunidades para **crescer** e aplicar o que estou aprendendo.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danilyyl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danilyyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🖤 O que eu estou estudando atualmente:
+<img align="right" height="150" src="https://i.imgur.com/JztuHzf.gif"  />
 
-- 🌐 **HTML/CSS/JavaScript** para front-end.
-- 💻 **Python**, **Java**, **MySQL**, **APIs** para back-end.
-- 🧠 Mergulhando no básico da **Inteligência Artificial** e **machine learning**.  
-- 👩‍💻 Trabalhando em **projetos pessoais** para melhorar minhas habilidades.
+### Tecnologias mais utilizadas🖥️
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-## 🛠️ Projetos que já compartilhei:
+### Redes Sociais✉️
 
-- **Conversor de Moedas**   
-  Um projeto simples mas poderoso. Ele é **responsivo** e funciona bem em **dispositivos móveis**. E é integrado a uma **API de câmbio em tempo real**.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-- **Gerador de Transcrição**                                                                                                                                    
-  Um programa que gera **transcrições** de **videos locais** e **videos do youtube** apartir do link usando tecnologias como **Whisper da OpenAI**, **pydub**, **ffmpeg** e       mais, possui uma interface básica via terminal e resultado da transcrição é salvo em um **arquivo txt**.
+###
 
----
+<br clear="both">
 
-## 💬 Vamos conversar!
+<img src="https://raw.githubusercontent.com/danilyyl/danilyyl/output/snake.svg" alt="Snake animation" />
 
-Estou sempre aberta a aprender com outros desenvolvedores e a compartilhar o que eu sei. Se você tiver dicas ou quiser bater um papo sobre qualquer coisa relacionada a **programação**, **inteligência artificial** ou **tecnologia**, é só me chamar! 😎
-
----
-
-## 📞 Meus contatos:
- <small>[Telefone](11955306617) | [Email](danielly.garcia2005@gmail.com) | [Linkedin](https://www.linkedin.com/in/danielly-garcia-4b00962b6/)
-
- 
- 
-
-# Em constante evolução 🖤
+###

@@ -4,7 +4,7 @@
 
 🔹 **Estudante ativa de programação**, com foco no **back-end**  
 🔹 Curiosa por **tecnologia** e apaixonada por aprender coisas novas.  
-🔹 Estudo **Python** e **MySQL** no meu tempo livre, e estou sempre **explorando** novos conceitos.  
+🔹 Estudo **Python**, **Java** e **MySQL** no meu tempo livre, e estou sempre **explorando** novos conceitos.  
 🔹 Em busca de desafios e oportunidades para **crescer** e aplicar o que estou aprendendo.
 
 ---

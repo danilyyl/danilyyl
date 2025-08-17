@@ -1,17 +1,18 @@
-<h2 align="left"># Olá, eu sou a Danielly 👩‍💻</h2>
+<h2 align="center">Olá, eu sou a Danielly 👩‍💻</h2>
+<p align="center">Desenvolvedora Back-End</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danilyyl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danilyyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🖤 Sobre mim
 
-###
+🔹 **Estudante ativa de programação**, com foco no **back-end**  
+🔹 Curiosa por **tecnologia** e apaixonada por aprender coisas novas.  
+🔹 Gosto de elaborar projetos práticos e evoluir o aprendizado.  
+🔹 Em busca de desafios e oportunidades para **crescer** e aplicar o que estou aprendendo.  
 
-<img align="right" height="150" src="https://i.imgur.com/JztuHzf.gif"  />
+---
 
-### Tecnologias mais utilizadas🖥️
+## 🖥️ Tecnologias mais utilizadas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -29,7 +30,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-### Redes Sociais✉️
+---
+
+## Projetos compartilhados
+
+- **[🪙 Conversor de Moedas](https://danilyyl.github.io/meus-projetos-iniciantes/Conversor/)**  
+  Um projeto simples mas poderoso. Ele é **responsivo** e funciona bem em **dispositivos móveis**. E é integrado a uma **API de câmbio em tempo real**.
+
+- **Gerador de Transcrição**                                                                                                                                    
+  Um programa que gera **transcrições** de **videos locais** e **videos do youtube** apartir do link usando tecnologias como **Whisper da OpenAI**, **pydub**, **ffmpeg** e mais, possui uma interface básica via terminal e resultado da transcrição é salvo em um **arquivo txt**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danilyyl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danilyyl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <img align="right" height="150" src="https://i.imgur.com/JztuHzf.gif"  />
+</div>
+
+---
+
+## Redes Sociais✉️
 
 <div align="left">
   <!-- LinkedIn -->
@@ -47,4 +71,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+---
 

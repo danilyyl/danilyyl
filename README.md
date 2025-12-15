@@ -1,5 +1,5 @@
 <h2 align="center">Olá, eu sou a Danielly 👩‍💻</h2>
-<p align="center">Desenvolvedora Back-End</p>
+<p align="center"><b>Desenvolvedora Back-End</b></p>
 
 ---
 

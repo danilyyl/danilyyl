@@ -2,7 +2,7 @@ name: Atualizar GitHub Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # a cada 6 horas
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,19 +11,15 @@ jobs:
 
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Gerar GitHub Stats
         run: |
-          curl -L \
-          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          -o github-stats.svg \
-          "https://github-readme-stats.vercel.app/api?username=danilyyl&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff9de6&icon_color=c792ea&text_color=c9d1d9&cache_seconds=21600"
+          curl -L -o github-stats.svg \
+          "https://github-readme-stats.vercel.app/api?username=danilyyl&show_icons=true&theme=tokyonight"
 
-          curl -L \
-          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          -o top-langs.svg \
-          "https://github-readme-stats.vercel.app/api/top-langs/?username=danilyyl&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff9de6&text_color=c9d1d9&cache_seconds=21600"
+          curl -L -o top-langs.svg \
+          "https://github-readme-stats.vercel.app/api/top-langs/?username=danilyyl&layout=compact&theme=tokyonight"
 
       - name: Commit das estatísticas
         run: |

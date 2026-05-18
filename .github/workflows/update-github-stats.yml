@@ -2,30 +2,36 @@ name: Atualizar GitHub Stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # roda a cada hora
+    - cron: '0 */6 * * *' # a cada 6 horas
   workflow_dispatch:
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Baixar GitHub Stats
+      - name: Gerar GitHub Stats
         run: |
-          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          curl -L \
+          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
           -o github-stats.svg \
-          "https://github-readme-stats.vercel.app/api?username=danilyyl&show_icons=true&count_private=true&theme=radical"
-          
-          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          "https://github-readme-stats.vercel.app/api?username=danilyyl&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff9de6&icon_color=c792ea&text_color=c9d1d9&cache_seconds=21600"
+
+          curl -L \
+          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
           -o top-langs.svg \
-          "https://github-readme-stats.vercel.app/api/top-langs?username=danilyyl&layout=compact&langs_count=5&theme=radical"
+          "https://github-readme-stats.vercel.app/api/top-langs/?username=danilyyl&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff9de6&text_color=c9d1d9&cache_seconds=21600"
 
       - name: Commit das estatísticas
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
+
           git add github-stats.svg top-langs.svg
-          git commit -m "Atualizar GitHub Stats [skip ci]" || echo "Sem mudanças para commitar"
+
+          git commit -m "Atualizar GitHub Stats [skip ci]" || echo "Sem mudanças"
+
           git push

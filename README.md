@@ -46,9 +46,11 @@
 
 <div align="center">
 
-<img height="160em" src="./github-stats.svg"/>
+<img height="160em"
+src="https://github-readme-stats.vercel.app/api?username=danilyyl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff9de6&icon_color=c792ea&text_color=c9d1d9"/>
 
-<img height="160em" src="./top-langs.svg"/>
+<img height="160em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilyyl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff9de6&text_color=c9d1d9"/>
 
   <img align="right" height="150" src="https://i.imgur.com/JztuHzf.gif"  />
 </div>

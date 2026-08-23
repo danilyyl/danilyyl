@@ -1,14 +1,17 @@
-<h2 align="center">Olá, eu sou a Danielly 👩‍💻</h2>
-<p align="center"><b>Desenvolvedora Back-End</b></p>
+<h2 align="center">Olá, eu sou a Danielly</h2>
+
+<p align="center">
+  <b>Estudante de Engenharia de Software | Foco em Back-End Java</b>
+</p>
 
 ---
 
-## 🖤 Sobre mim
+## Sobre mim
 
-🔹 **Estudante ativa de programação**, com foco no **back-end**  
-🔹 Curiosa por **tecnologia** e apaixonada por aprender coisas novas.  
-🔹 Gosto de elaborar projetos práticos e evoluir o aprendizado.  
-🔹 Em busca de desafios e oportunidades para **crescer** e aplicar o que estou aprendendo.  
+- Estudante de Engenharia de Software com foco em desenvolvimento back-end.
+- Atualmente estudo e desenvolvo projetos utilizando Java, Programação Orientada a Objetos e bancos de dados.
+- Tenho experiência profissional em suporte de TI e contato com GLPI, Active Directory e infraestrutura.
+- Busco uma oportunidade de estágio em desenvolvimento para aplicar e ampliar meus conhecimentos.
 
 ---
 
@@ -32,13 +35,23 @@
 
 ---
 
-## Projetos compartilhados
+## Projetos
 
-- **[🪙 Conversor de Moedas](https://danilyyl.github.io/meus-projetos-iniciantes/Conversor/)**  
-  Um projeto simples mas poderoso. Ele é **responsivo** e funciona bem em **dispositivos móveis**. E é integrado a uma **API de câmbio em tempo real**.
+### [Aplicação Java + MySQL](LINK_DO_REPOSITORIO)
+Aplicação desenvolvida para praticar integração entre Java e MySQL, utilizando JDBC, Maven e padrão DAO para organização do acesso aos dados.
 
-- **Gerador de Transcrição**                                                                                                                                    
-  Um programa que gera **transcrições** de **videos locais** e **videos do youtube** apartir do link usando tecnologias como **Whisper da OpenAI**, **pydub**, **ffmpeg** e mais, possui uma interface básica via terminal e resultado da transcrição é salvo em um **arquivo txt**.
+**Tecnologias:** Java, MySQL, SQL, JDBC, Maven e DAO.
+
+### [Cofrinho Java POO](LINK_DO_REPOSITORIO)
+Aplicação em console para gerenciamento de moedas, desenvolvida com foco em Programação Orientada a Objetos.
+
+**Conceitos:** herança, polimorfismo, classe abstrata, sobrescrita de métodos e `ArrayList`.
+
+### [Conversor de Moedas](SEU_LINK)
+Aplicação web responsiva integrada a uma API de câmbio para conversão de moedas.
+
+### Gerador de Transcrição
+Aplicação em Python para transcrição de vídeos locais e vídeos do YouTube utilizando Whisper, FFmpeg e pydub.
 
 ---
 
